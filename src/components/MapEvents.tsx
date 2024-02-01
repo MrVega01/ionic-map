@@ -14,6 +14,9 @@ export default function MapEvents({ position, addMarker }: Props){
     }
   })
   useEffect(() => {
+    setTimeout(function () {
+        map.invalidateSize(true);
+    }, 1000);
     map.flyTo(position, map.getZoom())
   }, [position])
   return <></>
