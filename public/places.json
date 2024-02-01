@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "inlatt": "9.75",
+      "distance": "0.000",
+      "timezone": "America/Caracas",
+      "elevation": "281",
+      "region": {},
+      "name": "Quebrada Paural",
+      "state": "VE",
+      "latt": "9.75",
+      "longt": "-66.383333",
+      "city": "El Roble",
+      "prov": "Guárico",
+      "inlongt": "-66.383333",
+      "altgeocode": "PAURAL-VXEQX"
+    },
+    {
+      "inlatt": "9.16064",
+      "distance": "0.000",
+      "timezone": "America/Caracas",
+      "elevation": "143",
+      "region": {},
+      "name": "Jobo Tocón",
+      "state": "VE",
+      "latt": "9.16064",
+      "longt": "-64.80857",
+      "city": "Jobo Tocón",
+      "prov": "Anzoátegui",
+      "inlongt": "-64.80857",
+      "altgeocode": "JOBOTOCON-IVZFK"
+    },
+    {
+      "inlatt": "5.2569",
+      "distance": "0.000",
+      "timezone": "America/Caracas",
+      "elevation": "101",
+      "region": {},
+      "name": "Isla Carestía",
+      "state": "VE",
+      "latt": "5.2569",
+      "longt": "-67.81589",
+      "city": "Samariapo",
+      "prov": "Amazonas",
+      "inlongt": "-67.81589",
+      "altgeocode": "ISLCARE-PMNRK"
+    },
+    {
+      "inlatt": "4.75",
+      "distance": "0.000",
+      "timezone": "America/Caracas",
+      "elevation": "845",
+      "region": {},
+      "name": "Apoipó",
+      "state": "VE",
+      "latt": "4.75",
+      "longt": "-61.48333",
+      "city": "Apoipó",
+      "prov": "Bolívar",
+      "inlongt": "-61.48333",
+      "altgeocode": "APOIPO-LNLKH"
+    }
+]
+}
